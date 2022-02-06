@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background-color: #242323;
+    height: 2000px;
+}
+
+
+header .main{
+    font-size: 1.8rem;
+    margin-left: 320px;
+    color: #FF46C7;
+    
+}
+
+header .buttons{
+    margin-left:30px; 
+    margin-top: 30px;
+     padding: 4rem 0;
+}
+
+
+header .buttons .bt{
+    padding: 2rem 0;
+}
+
+header .name{
+    margin-left: 550px;
+    color: rgb(150, 84, 194);
+}
+
+header .image{
+    margin-left: 100px;
+    color: #fff;
+}
+
+/* header .info{
+    color: rgb(175, 89, 168);
+} */
+
+header .info h2{
+    color:aqua;
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-bottom:50px;
+}
+
+header .info p{
+    margin-left: 30px;
+    margin-right: 30px;
+    color:rgb(255, 255, 255);
+}
+
+header .info h3{
+    color:#3DCFD3;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.5rem;
+}
+
+header .First{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+}
+
+header .First h2{
+    margin-right: 500px;
+    color: rgb(248, 248, 248);
+}
+
+header .Thanks{
+    margin-top: 50px;
+    margin-left: 300px;
+    font-size: 1.5rem;
+    color: #3DCFD3;
+}
+
+
+ 
