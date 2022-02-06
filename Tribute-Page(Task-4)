@@ -1,0 +1,61 @@
+<htlml>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Tribute page by Parth</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <header>
+            <div class="buttons">
+                <div class="bt">
+                    <button href="">Home</button>
+                    <button href="">More Info</button>
+                    <button href="">About</button>
+                    <button href="">Contact</button>
+                </div>
+
+        <div class="main">
+            <h1>Dr. A. P. J. Abdul Kalam</h1>
+        </div>
+
+        <div class="name">
+            <h3>The Missile Man of India</h3>
+        </div>
+
+        <div class="image"><img src="Dr Kalam.jpg" align="centre"></div>
+        <figcaption align="center">Dr. A. P. J. Abdul Kalam</figcaption>
+
+        <div class="info">
+            <h2>About</h2>
+            <p>APJ Kalam is Avul Pakir Jainulabdeen Abdul Kalam<br>
+                (15 October 1931 – 27 July 2015)<br>
+                He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering
+                was an Indian aerospace scientist who served as the 11th president of India from 2002 to 2007
+                He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.
+                He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology. 
+                He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.</p>
+                <p>
+                    While delivering a lecture at the Indian Institute of Management Shillong, Kalam collapsed and died from an apparent cardiac arrest on 27 July 2015, aged 83.[7] Thousands, including national-level dignitaries, attended the funeral ceremony held in his hometown of Rameswaram, where he was buried with full state honours.
+                    "our country has lost a great human being who made phenomenal contributions to the promotion of self-reliance in defence technologies."
+                </p>
+
+                <h3>“Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.”<br>- Dr. A.P.J.Kalam</h3>
+        </div>
+
+        <div class="First">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1S0QAOFKhDGdUJtDtpOmPkkUkWwpzlEihg&usqp=CAU">
+            <h2>Fist Rocket made by Dr. Abdul Kalam<h2>
+        </div>
+
+        <div class="Thanks">
+            <h1>Salute to Dr. A.P.J. Abdul Kalam</h1>
+        </div>
+        </header>
+    </body>
+</htlml>
