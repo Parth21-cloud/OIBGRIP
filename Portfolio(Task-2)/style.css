@@ -1,0 +1,90 @@
+@import 'utility.css';
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+header{
+    background-color: #161616;
+    height: auto;
+}
+
+.container{
+    max-width: 1152px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+header nav .left a{
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 2rem;
+    text-transform: uppercase;
+}
+
+header nav .left a:hover{
+    color: #3DCFD3;
+    transition: all 0.3s;
+}
+
+header nav{
+    padding: 2rem 0;
+}
+
+.info .info1{
+    color: #FFFFFF
+}
+
+.info .info1 h1{
+    margin-top: 7rem;
+    font-size: 3rem;
+    color: #3DCFD3
+}
+
+.info .info1 h4{
+    margin-bottom: 2rem;
+}
+
+.info .info1 p{
+    line-height: 1.9;
+    margin-bottom: 2rem;
+}
+
+.info .course{
+    margin-top: 15rem;
+    color: #ffffff;
+    
+}
+
+.info .course h2{
+    margin-left: 30rem;
+    color: #3DCFD3;
+    font-size: 1.8rem;
+}
+
+.info .education{
+    color: #ffffff;  
+}
+
+.info .education h3{
+    margin-left: 25rem;
+    color: #3DCFD3;
+    font-size: 1.8rem;
+}
+
+.info .mail h2{
+    margin-bottom: 4rem;
+    color: #3DCFD3;
+}
+
+.info .T{
+    margin-bottom: 5rem;
+    margin-left: 25rem;
+}
